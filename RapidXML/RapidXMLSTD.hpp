@@ -8,6 +8,7 @@
 #include "rapidxml.hpp"
 #include "rapidxml_utils.hpp"
 #include <string>
+#include <cstdint>
 
 #define XML_XSI_TYPE	"xsi:type"
 #define XML_XMLNS_XSI	"xmlns:xsi"
